@@ -8,7 +8,7 @@ If you have any scripts or alternative ideas of how to manage it, please feel fr
 Clone the repo and use.
 Feel free to change the cloned folder's name.
 ```
-clone 
+git clone https://github.com/bwinnett12/piazza.git 
 ```
 
 
